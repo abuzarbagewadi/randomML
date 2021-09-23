@@ -6,3 +6,4 @@ A number of deep learning codes I experiment with.
 * Neural Style Transfer
 * KNN Iris Image Classifier
 * MNIST GAN
+* Movie Recommendation System
